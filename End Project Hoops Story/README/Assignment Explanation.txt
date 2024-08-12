@@ -1,0 +1,31 @@
+Game Title: "Danger Hoops: Survival Slam"
+Game Summary:
+In "Danger Hoops: Survival Slam," you’re a basketball star whose flight to Tokyo turns into a fight for survival after your jet crashes in an uncharted jungle. Every choice you make shapes your story, with branching paths full of danger, betrayal, and unexpected twists. Will you lead your team to safety, uncover the truth behind the crash, or meet a tragic end? With rich humor, intense action, and dynamic storylines, every decision counts in this thrilling, narrative-driven adventure. Will you survive the jungle, or become its next victim? The choice is yours.
+
+Level 0: Pre-defined Story with Multiple Choice Options - 
+The core of the game is a branching narrative with multiple choice options. Players make decisions that directly impact the direction of the story, leading to different outcomes. For example, in Chapter 1, players choose whether to rush to the cockpit, stay with their teammates, or look out the window, each choice steering the narrative in a unique way. This structure fully aligns with the requirements for a pre-defined story with multiple choice options.
+
+Level 1: Name Character and Simple Inventory Management - 
+At the start of the game, players are prompted to name their character, which personalizes the story as the character's name is used throughout the narrative. Additionally, in Chapter 4, the player encounters a mysterious device—a bomb—that they can pick up. This item is added to the character’s inventory for potential use in future parts of the game, demonstrating a simple inventory management system.
+
+Level 2: Combat Mechanics with Basic Math Calculations for Damage and Health - 
+The game includes a combat scenario in Chapter 3 where the player faces off against a tiger. The player must make strategic choices, such as dodging or attacking, which determine the outcome of the encounter. While the game doesn’t explicitly track health points, the choices simulate the tension and stakes of a combat scenario, affecting the story's progression based on the player’s actions.
+
+Bonus Points:
+Design Pattern (+10 points)
+The game’s structure is built using the State design pattern, where each part of the game (e.g., StartState, Chapter1State, End1State) is represented by a separate class. This approach keeps the code modular, organized, and easy to maintain, especially as the game expands with more chapters and features.
+
+Reach Story (+10 points)
+The narrative is rich and engaging, with multiple branches and endings that offer depth and complexity. Each choice the player makes can significantly alter the story's outcome, ensuring that the experience is unique with each playthrough.
+
+Easter Egg (+5 points)
+In Chapter 2, Option 1, there’s a hidden Easter egg design on the character’s jersey. This subtle inclusion adds a fun, extra layer for players who notice it, rewarding their attention to detail.
+
+Screens and Smooth Transitions (+10 points)
+To enhance the user experience, the game uses Console.Clear() to create smooth transitions between different parts of the narrative. This keeps the screen clear and focused, helping players stay immersed in the story without being overwhelmed by too much text at once.
+
+Room Descriptions (+10 points)
+While not specifically rooms, the game features detailed descriptions of various environments and situations the player encounters. These descriptions help to paint a vivid picture of the surroundings, deepening the immersion and making the story more engaging.
+
+Flowchart
+To better understand the game’s structure, I created a flowchart that visually represents the different chapters, decision points, and possible endings. The flowchart highlights how player choices lead to different paths and outcomes, making it easier to see how the narrative branches and how various elements like the bomb (inventory) and combat scenarios are integrated into the game.
