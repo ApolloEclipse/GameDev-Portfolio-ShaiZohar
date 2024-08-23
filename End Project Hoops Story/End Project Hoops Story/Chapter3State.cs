@@ -47,6 +47,12 @@ public class Chapter3State : GameState
                 Console.WriteLine("I motioned for everyone to get back to the wreckage, pulling them into the shattered fuselage. \"Quiet,\" I whispered, barely daring to breathe. We huddled together, listening as the tiger prowled around outside, its heavy footsteps crushing the underbrush. I could feel every muscle in my body tensing, waiting for the moment it would try to break through.");
                 Console.WriteLine();
                 Console.WriteLine("But after what felt like an eternity, the sounds began to fade. The tiger had moved on, at least for now. I let out a breath I hadn’t realized I was holding. \"Looks like we’re not on the menu tonight,\" I said, my voice shaky but relieved.");
+                Console.WriteLine();
+                Console.WriteLine("Press Enter to continue...");
+                Console.ReadLine(); // Wait for the user to press Enter before proceeding
+
+                // Proceed to the next chapter based on the choice, if applicable
+                context.SetState(new Chapter4State(playerName)); // Assuming all choices except "1" lead to Chapter 4
                 break;
 
             case "3":
@@ -59,6 +65,12 @@ public class Chapter3State : GameState
                 Console.WriteLine("The flare burst to life, its blinding red light illuminating the night. The tiger recoiled, its eyes narrowing in confusion as it let out a low growl. For a moment, it seemed caught between fear and instinct, unsure whether to advance or retreat.");
                 Console.WriteLine();
                 Console.WriteLine("\"Now, move!\" I urged the others, and we bolted away from the wreckage, using the flare’s light to guide us as we sprinted through the jungle. The tiger, too stunned by the sudden brightness, didn’t give chase.");
+                Console.WriteLine();
+                Console.WriteLine("Press Enter to continue...");
+                Console.ReadLine(); // Wait for the user to press Enter before proceeding
+
+                // Proceed to the next chapter based on the choice, if applicable
+                context.SetState(new Chapter4State(playerName)); // Assuming all choices except "1" lead to Chapter 4
                 break;
 
             default:
@@ -68,11 +80,6 @@ public class Chapter3State : GameState
         }
 
         // Wait for the user to press Enter to continue to the next chapter
-        Console.WriteLine();
-        Console.WriteLine("Press Enter to continue...");
-        Console.ReadLine(); // Wait for the user to press Enter before proceeding
 
-        // Proceed to the next chapter based on the choice, if applicable
-        context.SetState(new Chapter4State(playerName)); // Assuming all choices except "1" lead to Chapter 4
     }
 }

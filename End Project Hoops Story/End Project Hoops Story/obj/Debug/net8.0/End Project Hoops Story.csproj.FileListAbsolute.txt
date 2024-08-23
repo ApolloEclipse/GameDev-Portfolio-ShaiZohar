@@ -12,3 +12,17 @@ C:\Users\shaiz\Desktop\Introduction to programming year 1\End Project\Code\End P
 C:\Users\shaiz\Desktop\Introduction to programming year 1\End Project\Code\End Project Hoops Story\End Project Hoops Story\obj\Debug\net8.0\End Project Hoops Story.pdb
 C:\Users\shaiz\Desktop\Introduction to programming year 1\End Project\Code\End Project Hoops Story\End Project Hoops Story\obj\Debug\net8.0\End Project Hoops Story.genruntimeconfig.cache
 C:\Users\shaiz\Desktop\Introduction to programming year 1\End Project\Code\End Project Hoops Story\End Project Hoops Story\obj\Debug\net8.0\ref\End Project Hoops Story.dll
+C:\Users\shaiz\Desktop\Introduction to programming year 1\End Project\End Project Hoops Story\End Project Hoops Story\bin\Debug\net8.0\End Project Hoops Story.exe
+C:\Users\shaiz\Desktop\Introduction to programming year 1\End Project\End Project Hoops Story\End Project Hoops Story\bin\Debug\net8.0\End Project Hoops Story.deps.json
+C:\Users\shaiz\Desktop\Introduction to programming year 1\End Project\End Project Hoops Story\End Project Hoops Story\bin\Debug\net8.0\End Project Hoops Story.runtimeconfig.json
+C:\Users\shaiz\Desktop\Introduction to programming year 1\End Project\End Project Hoops Story\End Project Hoops Story\bin\Debug\net8.0\End Project Hoops Story.dll
+C:\Users\shaiz\Desktop\Introduction to programming year 1\End Project\End Project Hoops Story\End Project Hoops Story\bin\Debug\net8.0\End Project Hoops Story.pdb
+C:\Users\shaiz\Desktop\Introduction to programming year 1\End Project\End Project Hoops Story\End Project Hoops Story\obj\Debug\net8.0\End Project Hoops Story.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shaiz\Desktop\Introduction to programming year 1\End Project\End Project Hoops Story\End Project Hoops Story\obj\Debug\net8.0\End Project Hoops Story.AssemblyInfoInputs.cache
+C:\Users\shaiz\Desktop\Introduction to programming year 1\End Project\End Project Hoops Story\End Project Hoops Story\obj\Debug\net8.0\End Project Hoops Story.AssemblyInfo.cs
+C:\Users\shaiz\Desktop\Introduction to programming year 1\End Project\End Project Hoops Story\End Project Hoops Story\obj\Debug\net8.0\End Project Hoops Story.csproj.CoreCompileInputs.cache
+C:\Users\shaiz\Desktop\Introduction to programming year 1\End Project\End Project Hoops Story\End Project Hoops Story\obj\Debug\net8.0\End Project Hoops Story.dll
+C:\Users\shaiz\Desktop\Introduction to programming year 1\End Project\End Project Hoops Story\End Project Hoops Story\obj\Debug\net8.0\refint\End Project Hoops Story.dll
+C:\Users\shaiz\Desktop\Introduction to programming year 1\End Project\End Project Hoops Story\End Project Hoops Story\obj\Debug\net8.0\End Project Hoops Story.pdb
+C:\Users\shaiz\Desktop\Introduction to programming year 1\End Project\End Project Hoops Story\End Project Hoops Story\obj\Debug\net8.0\End Project Hoops Story.genruntimeconfig.cache
+C:\Users\shaiz\Desktop\Introduction to programming year 1\End Project\End Project Hoops Story\End Project Hoops Story\obj\Debug\net8.0\ref\End Project Hoops Story.dll
